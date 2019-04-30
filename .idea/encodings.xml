@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/controller/PayServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/支付流程.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js/pingpp.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/order.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/pay.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/success.jsp" charset="GBK" />
+  </component>
+</project>
